@@ -1,7 +1,9 @@
 # ISHARA
+![ISHARA Gesture Control Demo](assets/ishara-demo.png)
 ### AI-Powered Hand Gesture Control System
 
 **Software Engineering • Computer Vision • Human-Computer Interaction**
+
 
 ISHARA is a Windows desktop application that enables hands-free computer interaction through real-time hand tracking and gesture recognition.
 
@@ -124,4 +126,6 @@ Data Science Graduate | Software Engineering & AI Projects
 ---
 
 **ISHARA — Control your computer with a gesture.**
+
+
 
